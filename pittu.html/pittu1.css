@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+
+  }
+  .v2_2 {
+    width: 100%;
+    height: 1024px;
+    background: rgba(151,166,162,0.8799999952316284);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  .v4_137 {
+    width: 100%;
+    color: rgba(3,58,51,1);
+    position: absolute;
+    top: 407px;
+    left: 20px;
+    opacity: 1;
+    text-align: center;
+    font-family: 'Inter';
+font-style: italic;
+    font-size:35px;
+  }
+  .v4_209 {
+    width: 627px;
+    color: rgba(30,30,30,0.5199999809265137);
+    position: absolute;
+    top: 552px;
+    left: 480px;
+    font-family: 'Inter';
+font-style: italic;
+    font-weight: Medium Italic;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v4_249 {
+    width: 538px;
+    height: 84px;
+    background: rgba(3,58,51,1);
+    opacity: 1;
+    position: absolute;
+    top: 648px;
+    left: 500px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .v4_252 a {
+    width: 246px;
+    color: rgba(151,166,162,1);
+    position: absolute;
+    top: 23px;
+    left: 146px;
+    font-family: 'Inter';
+font-style: italic;
+    font-weight: Medium Italic;
+    font-size: 32px;
+    opacity: 1;
+    text-align: left;
+    text-decoration: none;
+  }
+  .v4_251 {
+    width: 538px;
+    height: 84px;
+    background: rgba(3,58,51,1);
+    opacity: 1;
+    position: absolute;
+    top: 769px;
+    left: 500px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .v4_260 a {
+    width: 240px;
+    color: rgba(151,166,162,1);
+    position: absolute;
+    top: 23px;
+    left: 149px;
+    font-family: 'Inter';
+font-style: italic;
+    font-weight: Medium Italic;
+    font-size: 32px;
+    opacity: 1;
+    text-align: left;
+    text-decoration:none ;
+  }
+  .v26_3 {
+    width: 100%;
+    height: 377px;
+    background: url("../images/v26_3.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 648px;
+    left: 400px;
+    overflow: hidden;    
+  }
+  .v26_4 {
+    width: 270px;
+    height: 263px;
+    background: url("../images/v26_4.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 75px;
+    left: 585px;
+    overflow: hidden;
+  }
